@@ -1,11 +1,5 @@
 __author__ = 'maik'
 
-
-# Copyright (C) 2013 Angel Yanguas-Gil
-# This program is free software, licensed under GPLv2 or later.
-# A copy of the GPLv2 license is provided in the root directory of
-# the source code.
-
 """Parse WOK and Refman's RIS files"""
 
 import re
